@@ -1,1 +1,1 @@
-awk '{ print "Focuses on subjects/events." }' main
+BEGIN '{ print "Focuses on subjects/events." }' main
